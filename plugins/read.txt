@@ -1,0 +1,2 @@
+这里只放lib文件就可以了，dll文件已经放在QT源文件目录
+：D:\workSoftware\qt\qt\Tools\QtCreator\bin\plugins\designer
